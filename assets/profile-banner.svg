@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Mohammed Faisal Ahmed profile banner">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#0F172A"/>
+    <stop offset="0.55" stop-color="#1E3A8A"/>
+    <stop offset="1" stop-color="#0F766E"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="250" rx="28" fill="url(#g)"/>
+<circle cx="1050" cy="55" r="115" fill="#FFFFFF" opacity="0.06"/>
+<circle cx="1130" cy="215" r="150" fill="#FFFFFF" opacity="0.05"/>
+<text x="600" y="92" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF">Mohammed Faisal Ahmed</text>
+<text x="600" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#BFDBFE">Software Engineer • Technical Support Engineer</text>
+<text x="600" y="188" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#D1FAE5">Full-Stack Web Development • Oracle &amp; ERP Support • UI/UX Design</text>
+</svg>
