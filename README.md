@@ -158,4 +158,4 @@ An interactive Arabic web guide for the annual closing process in Onyx Pro ERP V
 
 - **Email:** [alshamimohammed90@gmail.com](mailto:alshamimohammed90@gmail.com)
 - **GitHub:** [MohammedFaisal0](https://github.com/MohammedFaisal0)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/mohammed-al-shamy-150208284/)
