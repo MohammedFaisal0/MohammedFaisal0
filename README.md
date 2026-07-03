@@ -15,7 +15,7 @@ Software Engineer and Technical Support Engineer with 2.5 years of combined hand
 - 🔍 Diagnosing application, database, reporting, Windows, and connectivity issues
 - 🎨 Designing responsive interfaces using **Figma and Adobe XD**
 - 📍 Based in Yemen
-- 📫 **alshamimohammed90@gmail.com**
+- 📫 **alshamimohammed90@gmail.com||+967772697748**
 
 ## Technical Skills
 
